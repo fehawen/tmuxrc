@@ -1,0 +1,6 @@
+vimrc
+=====
+
+TMUX configuration.
+
+Run `./install.sh` to symlink to `~/.tmux.conf` and back up any existing config.
